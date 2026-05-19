@@ -39,12 +39,12 @@ To launch and execute AeroMacro smoothly, your system must meet the following ba
 ### Step 1: Clone or Download the Project
 Clone this repository to your local machine:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/macro.git](https://github.com/YOUR_USERNAME/macro.git)
+git clone [https://github.com/Pepa12341/macro.git](https://github.com/Pepa12341/macro.git)
 cd macro
 
 ```
 
-*(Alternatively, if you do not use Git, you can simply download the source file `macro.py` directly into a local folder of your choice).*
+*(Alternatively, if you do not use Git, you can simply download the source file `AeroMacro v6.0.py` directly into a local folder of your choice).*
 
 ### Step 2: Install Peripheral Dependencies
 
@@ -66,9 +66,11 @@ pip install pynput
 Execute the main script via your terminal:
 
 ```bash
-python macro.py
+python "AeroMacro v6.0.py"
 
 ```
+
+*(Note: Keep the quotation marks around the filename in your terminal so the command line reads the space in the filename correctly!)*
 
 ### 2. Standard Workflow
 
